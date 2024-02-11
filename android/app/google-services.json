@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268860683923",
+    "project_id": "rickshaw2",
+    "storage_bucket": "rickshaw2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268860683923:android:84ab34b5c05521d625bf66",
+        "android_client_info": {
+          "package_name": "com.example.rickshaw2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPV8cja4lrvSF9QFz2kpPqWmfZvoljkfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
