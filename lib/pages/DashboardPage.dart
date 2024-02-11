@@ -558,7 +558,7 @@ double remainingAmount = 0;
 
                         Center(
                           child: Container(
-                            child: Text("Hi ${currentUserName}",style: TextStyle(fontSize:20,fontWeight: FontWeight.bold,color: Colors.black),),
+                            child: Text("Hello ${currentUserName}",style: TextStyle(fontSize:20,fontWeight: FontWeight.bold,color: Colors.black),),
                           ),
                         ),
                         SizedBox(height:20,),
